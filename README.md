@@ -29,6 +29,8 @@ Physics Simulator is a interactive tool for exploring gravitational particle dyn
      - `<`/`>` : Adjust speed (0.1x–5.0x).
      - `R` : Reset view.
      - `Esc` : Return to menu.
+
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/x8gnyqKT/gravity-1.gif" alt="gravity-1" border="0"></a>
        
    - Heat Simulation:
      - `Left-click` : Add heat.
@@ -37,6 +39,8 @@ Physics Simulator is a interactive tool for exploring gravitational particle dyn
      - `<`/`>` : Adjust speed.
      - `R` : Reset view.
      - `Esc` : Return to menu.
+    
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/MkXfNwMK/heat.gif" alt="heat" border="0"></a>
        
    - Wave Simulation:
      - `Left-click` : Create wave disturbances.
@@ -45,6 +49,8 @@ Physics Simulator is a interactive tool for exploring gravitational particle dyn
      - `<`/`>` : Adjust speed.
      - `R` : Reset view.
      - `Esc` : Return to menu.
+    
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/L71tz2y/wave.gif" alt="wave" border="0"></a>
 
 - Camera Controls:
    - `Mouse wheel` : Zoom in/out 
@@ -55,3 +61,7 @@ Physics Simulator is a interactive tool for exploring gravitational particle dyn
 - `sim_gravity.py`: Simulates gravity and collisions of particles.
 - `sim_heat.py`: Simulates 2D heat diffusion.
 - `sim_wave.py`: Simulates 2D wave propagation.
+
+## TODO
+
+- Use mass in gravity simulation
