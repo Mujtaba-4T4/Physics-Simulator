@@ -50,7 +50,7 @@ Physics Simulator is a interactive tool for exploring gravitational particle dyn
      - `R` : Reset view.
      - `Esc` : Return to menu.
     
-   <a href="https://imgbb.com/"><img src="https://i.ibb.co/L71tz2y/wave.gif" alt="wave" border="0"></a>
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/5bL8JNk/wave-1.gif" alt="wave" border="0"></a>
 
 - Camera Controls:
    - `Mouse wheel` : Zoom in/out 
